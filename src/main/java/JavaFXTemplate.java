@@ -24,6 +24,8 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 public class JavaFXTemplate extends Application{
+	
+	//tesiting
 
 	TextField text; 
 	Button addToListBtn, sceneChangeBtn, b4,b5,b6,b7, printListBtn;  
